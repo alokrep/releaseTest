@@ -3,7 +3,7 @@
  
   <groupId>com.revivermx.utils</groupId>
   <artifactId>releaseTest</artifactId>
-  <version>0.1</version>
+  <version>0.2-SNAPSHOT</version>
   <packaging>jar</packaging>
  
   <name>Test Release Plugin</name>
@@ -136,6 +136,6 @@
     </distributionManagement>
     <scm>
       <connection>scm:git:git@github.com:alokrep/releaseTest.git</connection>
-      <tag>0.1</tag>
+      <tag>HEAD</tag>
   </scm>
 </project>
