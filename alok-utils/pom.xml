@@ -139,6 +139,6 @@
     </distributionManagement>
     <scm>
       <developerConnection>scm:git:git@github.com:alokrep/releaseTest.git</developerConnection>
-      <tag>release/0.3</tag>
+      <tag>release/0.2</tag>
   </scm>
 </project>
