@@ -138,7 +138,7 @@
       </repository>
     </distributionManagement>
     <scm>
-      <connection>scm:git:git@github.com:alokrep/releaseTest.git</connection>
+      <developerConnection>scm:git:git@github.com:alokrep/releaseTest.git</developerConnection>
       <tag>HEAD</tag>
   </scm>
 </project>
